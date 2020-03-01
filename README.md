@@ -1,2 +1,2 @@
 # AC-02
-#Grup: Èlia Isart i Laura Grau
+Grup: Èlia Isart i Laura Grau
